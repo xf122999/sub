@@ -13,13 +13,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+hysteria2://8fe69c01-8bdc-48af-8c1c-854462916888@128.204.223.98:16868?sni=www.bing.com&alpn=h3&insecure=1#PL-s05-hysteria2
+hysteria2://8fe69c01-8bdc-48af-8c1c-854462916888@85.194.246.69:16868?sni=www.bing.com&alpn=h3&insecure=1#PL-s12-hysteria2
 `
 
 let urls = [];
