@@ -15,7 +15,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 hysteria2://8fe69c01-8bdc-48af-8c1c-854462916888@128.204.223.98:16868?sni=www.bing.com&alpn=h3&insecure=1#PL-s05-hysteria2
 hysteria2://8fe69c01-8bdc-48af-8c1c-854462916888@85.194.246.69:16868?sni=www.bing.com&alpn=h3&insecure=1#PL-s12-hysteria2
-https://vlx.xf122.ggff.net/66c95e5f-5994-40ac-a59b-3b05d3a32228
+https://vlx.xfi.dpdns.org/66c95e5f-5994-40ac-a59b-3b05d3a32228
 `
 
 let urls = [];
