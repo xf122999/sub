@@ -14,7 +14,6 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://vlx.xfi.dpdns.org/66c95e5f-5994-40ac-a59b-3b05d3a32228
-https://fz.xfi.dpdns.org/sub/b218a6aa-eeda-4a09-a516-c3be21695f68?app=sfa#BPB-Full-Normal
 `
 
 let urls = [];
