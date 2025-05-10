@@ -14,6 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://vlx.xfi.dpdns.org/66c95e5f-5994-40ac-a59b-3b05d3a32228
+hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB%2Fs%7C50%25%7CYoutube
 hysteria2://nfsn666@sj-arm.nfsn666.gq:8888?sni=sj-arm.nfsn666.gq&insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%207.8MB%2Fs%7C62%25%7COpenai%7CGemini
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1#%E8%8B%B1%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB%2Fs%7C62%25%7CNetflix%7CYoutube%7COpenai
 hysteria2://dongtaiwang.com@108.181.5.130:57773?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%209.7MB%2Fs%7C47%25%7COpenai
