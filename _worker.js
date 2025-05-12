@@ -25,7 +25,6 @@ hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?sni=www.bi
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%207.5MB%2Fs%7C16%25%7COpenai
 hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1#%E7%BE%8E%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs%7C24%25%7CNetflix%7CDisney%7COpenai
 hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?sni=www.bing.com&insecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%20%7C%20%E2%AC%87%EF%B8%8F%208.9MB%2Fs%7C59%25%7CYoutube%7COpenai
-hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192-227-152-86.nip.io:61001?sni=192-227-152-86.nip.io&insecure=1#%E7%BE%8E%E5%9B%BD98%20%7C%20%E2%AC%87%EF%B8%8F%209.7MB%2Fs%7C34%25%7CNetflix%7CDisney%7COpenai
 `
 
 let urls = [];
