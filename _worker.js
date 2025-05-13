@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999
+https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 vless://eeebdbc0-1ce1-45a2-9c0c-209c37a50229@xf.xf122.dpdns.org:443?encryption=none&security=tls&sni=xf.xf122.dpdns.org&allowInsecure=1&type=ws&host=xf.xf122.dpdns.org&path=%2F#webhostmost-GCP
 hysteria2://nfsn666@192.9.129.48:8888?sni=sj-arm.nfsn666.gq&insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%209.6MB%2Fs%7C62%25%7COpenai
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB%2Fs%7C50%25%7CYoutube
