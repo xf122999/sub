@@ -14,7 +14,6 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://vlx.xfi.dpdns.org/66c95e5f-5994-40ac-a59b-3b05d3a32228
-vless://9f75df96-52f8-4f6d-9c7e-56c5b9809e38@fx.kwx.dpdns.org:443?encryption=none&security=tls&sni=fx.kwx.dpdns.org&allowInsecure=1&type=ws&host=fx.kwx.dpdns.org&path=%2F#webhostmost-GCP
 vless://eeebdbc0-1ce1-45a2-9c0c-209c37a50229@xf.xf122.dpdns.org:443?encryption=none&security=tls&sni=xf.xf122.dpdns.org&allowInsecure=1&type=ws&host=xf.xf122.dpdns.org&path=%2F#webhostmost-GCP
 hysteria2://nfsn666@192.9.129.48:8888?sni=sj-arm.nfsn666.gq&insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%209.6MB%2Fs%7C62%25%7COpenai
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB%2Fs%7C50%25%7CYoutube
