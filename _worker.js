@@ -14,13 +14,12 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
-hysteria2://kongwx.xwk35005@fcc.xfi.dpdns.org:49473?insecure=1#fc-hy2
-hysteria2://kongwx.xwk35005@fzz.kwx.dpdns.org:46321?insecure=1#fz-hy2
+hysteria2://kongwx.xwk35005@fcc.xfi.dpdns.org:49473?insecure=1#fc-hy2-JP
+hysteria2://kongwx.xwk35005@fzz.kwx.dpdns.org:46321?insecure=1#fz-hy2-DE
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB%2Fs%7C50%25%7CYoutube
 hysteria2://dongtaiwang.com@46.17.41.217:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF2%20%7C%20%E2%AC%87%EF%B8%8F%205.8MB%2Fs%7C50%25%7CYoutube
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1#%E8%8B%B1%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB%2Fs%7C62%25%7CNetflix%7CYoutube%7COpenai
 hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1#%E7%BE%8E%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs%7C24%25%7CNetflix%7CDisney%7COpenai
-hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?sni=www.bing.com&insecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%20%7C%20%E2%AC%87%EF%B8%8F%208.9MB%2Fs%7C59%25%7CYoutube%7COpenai
 hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C15%25%7COpenai
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7C15%25%7COpenai
 hysteria2://dongtaiwang.com@108.181.5.130:57773?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%209.2MB%2Fs%7C48%25%7COpenai
