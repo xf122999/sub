@@ -16,6 +16,7 @@ let MainData = `
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 hysteria2://kongwx.xwk35005@fcc.xfi.dpdns.org:49473?insecure=1#fc-hy2-JP
 hysteria2://kongwx.xwk35005@fzz.kwx.dpdns.org:46321?insecure=1#fz-hy2-DE
+hysteria2://sysadmin.sysadmin@fxx.wt188.dpdns.org:31497?insecure=1#fx-hy2-SG
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB%2Fs%7C50%25%7CYoutube
 hysteria2://dongtaiwang.com@46.17.41.217:10011?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF2%20%7C%20%E2%AC%87%EF%B8%8F%205.8MB%2Fs%7C50%25%7CYoutube
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1#%E8%8B%B1%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB%2Fs%7C62%25%7CNetflix%7CYoutube%7COpenai
