@@ -13,7 +13,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 hysteria2://kongwx.xwk35005@fcc.xfi.dpdns.org:49473?insecure=1#cc-JP
 hysteria2://kongwx.xwk35005@fzz.kwx.dpdns.org:46321?insecure=1#cc-DE
