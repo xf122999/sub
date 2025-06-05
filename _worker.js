@@ -27,6 +27,7 @@ hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?sni=www.bi
 vless://66297f94-9329-406e-b9fd-2c4723167688@www.visa.com.hk:443?encryption=none&security=tls&sni=fcz.kwx.dpdns.org&type=ws&host=fcz.kwx.dpdns.org&path=%2F#ipv6-KS
 vless://66297f94-9329-406e-b9fd-2c4723167688@[2606:4700::]:443?encryption=none&security=tls&sni=fcz.kwx.dpdns.org&type=ws&host=fcz.kwx.dpdns.org&path=%2F#ipv6-KS
 vless://66297f94-9329-406e-b9fd-2c4723167688@[2400:cb00:2049::]:443?encryption=none&security=tls&sni=fcz.kwx.dpdns.org&type=ws&host=fcz.kwx.dpdns.org&path=%2F#ipv6-KS
+https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 `;
 
 let urls = [];
