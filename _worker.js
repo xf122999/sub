@@ -18,11 +18,8 @@ hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1#%E4%
 hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF3%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7C50%25
 hysteria2://dongtaiwang.com@45.129.2.108:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF4%20%7C%20%E2%AC%87%EF%B8%8F%205.4MB%2Fs%7C0%25
 hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%209.1MB%2Fs%7C15%25%7COpenai
-hysteria2://dongtaiwang.com@108.181.5.130:57773?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%206.8MB%2Fs%7C45%25%7COpenai
-hysteria2://nfsn666@130.162.182.250:8888?sni=ld-arm.nfsn666.gq&insecure=1#%E8%8B%B1%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%206.6MB%2Fs%7C56%25%7CNetflix%7CYoutube%7COpenai
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C25%25%7COpenai%7CGemini
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?sni=www.bing.com&insecure=1#%E7%BE%8E%E5%9B%BD5%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%7C19%25%7CNetflix%7CDisney%7COpenai%7CGemini
-vless://66297f94-9329-406e-b9fd-2c4723167688@www.visa.com.hk:443?encryption=none&security=tls&sni=fcz.kwx.dpdns.org&type=ws&host=fcz.kwx.dpdns.org&path=%2F#ipv6-KS
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 `;
 
