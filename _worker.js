@@ -15,9 +15,11 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%7C0%25
-hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF3%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7C50%25
-hysteria2://dongtaiwang.com@45.129.2.108:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF4%20%7C%20%E2%AC%87%EF%B8%8F%205.4MB%2Fs%7C0%25
-hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E6%B3%95%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%209.1MB%2Fs%7C15%25%7COpenai
+hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF2%20%7C%20%E2%AC%87%EF%B8%8F%207.4MB%2Fs
+hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF4%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs%7CYoutube
+hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%E6%B3%95%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%2010.3MB%2Fs%7CNetflix%7COpenai
+hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7CNetflix%7COpenai
+hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E8%8D%B7%E5%85%B02%20%7C%20%E2%AC%87%EF%B8%8F%208.3MB%2Fs%7CNetflix%7CYoutube%7COpenai
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C25%25%7COpenai%7CGemini
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?sni=www.bing.com&insecure=1#%E7%BE%8E%E5%9B%BD5%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%7C19%25%7CNetflix%7CDisney%7COpenai%7CGemini
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
