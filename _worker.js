@@ -16,12 +16,18 @@ let MainData = `
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%7C0%25
 hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF2%20%7C%20%E2%AC%87%EF%B8%8F%207.4MB%2Fs
-hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF4%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs%7CYoutube
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%E6%B3%95%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%2010.3MB%2Fs%7CNetflix%7COpenai
-hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7CNetflix%7COpenai
-hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E8%8D%B7%E5%85%B02%20%7C%20%E2%AC%87%EF%B8%8F%208.3MB%2Fs%7CNetflix%7CYoutube%7COpenai
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C25%25%7COpenai%7CGemini
-hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?sni=www.bing.com&insecure=1#%E7%BE%8E%E5%9B%BD5%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%7C19%25%7CNetflix%7CDisney%7COpenai%7CGemini
+hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%204.7MB%2Fs
+hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@de2.eyucdn.xyz:2056?sni=de2.eyucdn.xyz&insecure=1#%E5%BE%B7%E5%9B%BD9%20%7C%20%E2%AC%87%EF%B8%8F%204.3MB%2Fs%7CNetflix%7CDisney%7CYoutube%7COpenai
+hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086?sni=asg.pagate.top&insecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A11%20%7C%20%E2%AC%87%EF%B8%8F%208.3MB%2Fs%7CNetflix%7CYoutube%7COpenai
+hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%E6%B3%95%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%205.5MB%2Fs%7CNetflix%7COpenai
+hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@aus.pagate.top:10086?sni=aus.pagate.top&insecure=1#%E7%BE%8E%E5%9B%BD12%20%7C%20%E2%AC%87%EF%B8%8F%2011.8MB%2Fs%7CNetflix%7COpenai
+hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#%E7%BE%8E%E5%9B%BD13%20%7C%20%E2%AC%87%EF%B8%8F%209.2MB%2Fs%7CNetflix%7COpenai
+hysteria2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@sub-us-2.yangxiansheng.online:41951?sni=www.bing.com&insecure=1#%E7%BE%8E%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%208.5MB%2Fs%7CNetflix%7COpenai%7CGemini
+hysteria2://8a5d58a0-c50e-11ef-a46e-f23c913c8d2b@77e4ecc4-swkhs0-sxicvr-1swry.hy2.gotochinatown.net:8443?sni=77e4ecc4-swkhs0-sxicvr-1swry.hy2.gotochinatown.net&insecure=1#%E7%BE%8E%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%206.6MB%2Fs%7CNetflix
+hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net:8443?sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net&insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%205.7MB%2Fs%7CNetflix
+hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@5c2771a6-swd340-sxh7iw-1ryup.hy2.gotochinatown.net:8443?sni=5c2771a6-swd340-sxh7iw-1ryup.hy2.gotochinatown.net&insecure=1#%E7%BE%8E%E5%9B%BD5%20%7C%20%E2%AC%87%EF%B8%8F%206.2MB%2Fs%7CNetflix
+hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1#%E8%8D%B7%E5%85%B02%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB%2Fs%7CNetflix%7CYoutube%7COpenai
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 `;
 
