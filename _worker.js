@@ -21,6 +21,7 @@ hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%B
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%E6%B3%95%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%205.5MB%2Fs%7CNetflix%7COpenai
 hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@aus.pagate.top:10086?sni=aus.pagate.top&insecure=1#%E7%BE%8E%E5%9B%BD12%20%7C%20%E2%AC%87%EF%B8%8F%2011.8MB%2Fs%7CNetflix%7COpenai
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
+https://fz.xfi.dpdns.org/sub/full-normal/8fe69c01-8bdc-48af-8c1c-854462916888?app=xray#%F0%9F%92%A6%20BPB%20Full%20Normal
 `;
 
 let urls = [];
