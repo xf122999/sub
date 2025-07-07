@@ -14,12 +14,13 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
-hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#US_3%20%7C%20%E2%AC%87%EF%B8%8F%205.0MB%2Fs%7C37%25%7CNetflix%7COpenai
-ysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF2%20%7C%20%E2%AC%87%EF%B8%8F%207.4MB%2Fs
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C25%25%7COpenai%7CGemini
-hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%204.7MB%2Fs
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%E6%B3%95%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%205.5MB%2Fs%7CNetflix%7COpenai
 hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@aus.pagate.top:10086?sni=aus.pagate.top&insecure=1#%E7%BE%8E%E5%9B%BD12%20%7C%20%E2%AC%87%EF%B8%8F%2011.8MB%2Fs%7CNetflix%7COpenai
+hysteria2://sysadmin.sysadmin@165.1.76.128:444?sni=mg1.wtn.wang&insecure=1#US_1%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB%2Fs%7CNetflix%7COpenai%7CGemini
+hysteria2://a1816f30-4050-439a-8557-e83c110e9a20@us1.vip.edu.kg:443?sni=us1.vip.edu.kg&obfs=salamander&obfs-password=yw3WPVnZYdiqCT1n&insecure=1#US_15%20%7C%20%E2%AC%87%EF%B8%8F%204.9MB%2Fs%7CNetflix%7COpenai%7CGemini
+hysteria2://3d0056b6-998d-49d8-80e2-d1ed8443d9c2@us1.vip.edu.kg:443?sni=us1.vip.edu.kg&obfs=salamander&obfs-password=yw3WPVnZYdiqCT1n&insecure=1#US_16%20%7C%20%E2%AC%87%EF%B8%8F%204.8MB%2Fs%7CNetflix%7COpenai%7CGemini
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?sni=www.bing.com&insecure=1#US_48%20%7C%20%E2%AC%87%EF%B8%8F%209.3MB%2Fs%7C40%25%7CNetflix%7CDisney%7COpenai
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.241:443?sni=www.bing.com&insecure=1#US_49%20%7C%20%E2%AC%87%EF%B8%8F%206.2MB%2Fs%7C40%25%7CNetflix%7CDisney%7COpenai
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 https://fz.xfi.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
 `;
