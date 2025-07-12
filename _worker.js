@@ -13,6 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+hysteria2://xwk35005@8.209.70.51:49659?insecure=1#hy2-DEU
 hysteria2://xwk35005@47.245.158.221:38255?insecure=1#hy2-DEU
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#hy2-USA
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
