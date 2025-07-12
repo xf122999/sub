@@ -13,9 +13,9 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+hysteria2://xwk35005@47.245.158.221:38255?insecure=1#hy2-DEU
+hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#hy2-USA
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
-hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#%E7%BE%8E%E5%9B%BD4%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs%7C25%25%7COpenai%7CGemini
-hysteria2://a1816f30-4050-439a-8557-e83c110e9a20@us1.vip.edu.kg:443?sni=us1.vip.edu.kg&obfs=salamander&obfs-password=yw3WPVnZYdiqCT1n&insecure=1#US_15%20%7C%20%E2%AC%87%EF%B8%8F%204.9MB%2Fs%7CNetflix%7COpenai%7CGemini
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 https://fz.xfi.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
 `;
