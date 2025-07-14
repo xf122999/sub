@@ -18,18 +18,7 @@ hysteria2://d7dbe6d6-9b67-4f0b-9afb-526a15555529@47.91.75.147:34501?insecure=1#h
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#hy2-USA
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@104.19.240.118:2053?encryption=none&security=tls&sni=fz.xfI.dpdns.OrG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FIOcRh0MeEXIgcZuz%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv4B-SJC
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@104.16.61.247:2053?encryption=none&security=tls&sni=FZ.XFi.DPDNs.Org&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FtKYFxluX2mCpHUch%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv4B-SJC
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@104.19.145.6:2053?encryption=none&security=tls&sni=Fz.xfI.DpDNS.ORG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FgMvKbr0WXqPiLOet%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv4B-SJC
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@164.38.155.227:2053?encryption=none&security=tls&sni=Fz.XFI.DpDNs.ORg&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FFtewVvVgysQRRwPe%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv4B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@104.22.32.167:2053?encryption=none&security=tls&sni=fz.xFI.dpdnS.OrG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FTGf46j4wTbu7OtzL%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv4B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@[2a06:98c1:310a:a525:b581:fa0b:206b:2d28]:2053?encryption=none&security=tls&sni=FZ.XFI.DpdnS.oRG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2F7l5xFzVF2rxWEhRd%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv6B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@[2606:4700:4400:860d:314:30dd:f2e7:85f2]:2053?encryption=none&security=tls&sni=FZ.xFi.DPDnS.orG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FND1rNMOIBDYxjPkP%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv6B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@[2606:4700:3016:9905:f39b:8d89:5a11:92b7]:2053?encryption=none&security=tls&sni=Fz.XFi.DPDns.ORg&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2F3qP3K7lsqKtD05di%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv6B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@[2606:4700:3014:4399:be83:d8b9:24fd:9de7]:2053?encryption=none&security=tls&sni=fZ.XfI.dpDNs.oRg&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FvEvgeUCSGHFyKlXG%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv6B-LAX
-vless://8fe69c01-8bdc-48af-8c1c-854462916888@[2a06:98c1:52:656f:e982:e0f2:e568:3fc9]:2053?encryption=none&security=tls&sni=Fz.xfI.DPDnS.OrG&alpn=http%2F1.1&fp=randomized&type=ws&host=fz.xfi.dpdns.org&path=%2FLsolsmnY3h6F0V7Y%2FNDcuNzQuMTU3LjE5NCwxOTMuMTIzLjgwLjI0NSwxNDMuNDcuMTc5LjIzNywxNDEuMTQ3LjE2My42OCwxMzguMi41Ni4yNDY%3D%3Fed%3D2560#ipv6B-LAX
-
-//https://fz.xfi.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
+https://fz.xfi.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
 `;
 
 let urls = [];
