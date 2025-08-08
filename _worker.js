@@ -17,7 +17,6 @@ hysteria2://8507b50f-83e5-49ca-8a6b-a80d4a013888@8.209.70.51:49659?insecure=1#hy
 hysteria2://d7dbe6d6-9b67-4f0b-9afb-526a15555529@47.91.91.173:35918?insecure=1#hy2-DEU
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
-https://fz.xfi.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
 `;
 let urls = [];
 let subConverter = "SUBAPI.cmliussss.net"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
@@ -829,3 +828,4 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
