@@ -13,8 +13,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://8507b50f-83e5-49ca-8a6b-a80d4a013888@8.209.70.51:49659?insecure=1#hy2-DEU
-hysteria2://d7dbe6d6-9b67-4f0b-9afb-526a15555529@47.91.91.173:35918?insecure=1#hy2-DEU
 https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 `;
@@ -828,4 +826,5 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
