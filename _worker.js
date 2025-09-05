@@ -18,6 +18,8 @@ hysteria2://48599bd2-69c7-4ebc-9c79-e6a6c73a4fdc@hsyg.huasuan666.top:22156?sni=h
 hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?sni=bing.com&insecure=1#JP_1%7C12.4MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CNF%7CGM
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1#JP_2%7C7.2MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CNF%7CGM
 hysteria2://04a24f06-17fa-464b-a799-90600783499f@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top&insecure=1#US_1%7C7.0MB%2Fs%7CGPT%E2%81%BA%7CNF%7CD%2B%7CGM%7C20%25
+hysteria2://xwk35005@udp.ap-northeast-1.clawcloudrun.com:31492?alpn=h3&insecure=1#hy2-JP
+hysteria2://xwk35005@udp.eu-central-1.clawcloudrun.com:39997?alpn=h3&insecure=1#hy2-DE
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
 `;
 let urls = [];
@@ -830,6 +832,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
