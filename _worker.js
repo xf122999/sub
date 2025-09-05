@@ -13,9 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://vlx.xfi.dpdns.org/d757d1f5-615d-4ec5-b4c7-5c318d518999?b64
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
-https://fbb.wt188.dpdns.org/sub/normal/8fe69c01-8bdc-48af-8c1c-854462916888#%F0%9F%92%A6%20BPB%20Normal
 `;
 let urls = [];
 let subConverter = "SUBAPI.cmliussss.net"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
@@ -827,6 +825,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
