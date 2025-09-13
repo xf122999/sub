@@ -14,7 +14,6 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#hy2-US
-hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1#hy2-JP
 hysteria2://xwk35005@udp.ap-northeast-1.clawcloudrun.com:31492?alpn=h3&insecure=1#hy2-JP
 hysteria2://xwk35005@udp.eu-central-1.clawcloudrun.com:39997?alpn=h3&insecure=1#hy2-DE
 https://fx.wt188.dpdns.org/92817f70-442f-427b-ba57-ede71c7f5888?b64
@@ -829,6 +828,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
